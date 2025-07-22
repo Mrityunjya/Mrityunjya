@@ -10,10 +10,16 @@
 
 ### 🚀 About Me
 
-I’m a Computer Science and Artificial Intelligence engineer with a deep interest in building ethical, explainable, and emotionally-intelligent systems.
+I’m a Computer Science and Artificial Intelligence engineer driven by the belief that AI should not only solve problems — it should understand people.
 
-> Whether it's decoding human emotion through machine learning or aligning AI models with moral reasoning — I bring systems to life that understand more than they compute.
+My work spans across multiple domains of AI — from Neuro-Symbolic Systems, Explainable Machine Learning, and Generative AI, to Decision Intelligence, Ethical Reasoning, and Emotionally-Aligned Agents.
 
+Whether I’m building interpretable models, designing mindful agents, or fusing logic with deep learning — I aim to create systems that are not just intelligent, but responsible, empathetic, and human-aligned.
+
+I don’t just train models.
+I teach them to think with clarity, act with integrity, and evolve with purpose.
+
+> 🧩 Full-Stack Intelligence — Architecting Systems that Perceive, Understand, and Uplift.
 ---
 
 ### Tech Stack (Elite + Practical)
