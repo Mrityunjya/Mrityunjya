@@ -74,8 +74,8 @@ I’m a Computer Science and Artificial Intelligence engineer with a deep intere
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧬 **M.E.D.U.S.A.** | An advanced Neuro-Ethical AI system detecting moral dissonance using multi-factor inputs (symbolic reasoning + emotion + context). | Neuro-Symbolic AI, GPT-4, Custom Ethical Ontologies |
-| 🎛️ **Leaf-Logic** | A data-driven Decision Tree Classifier that predicts whether a customer will purchase a product or service based on their demographic and behavioral attributes. Designed for explainability and real-world business insights.
-| 💍 **GeoSense** | n AI-powered Disaster Prevention and Management System that uses geospatial intelligence and real-time predictive analytics to reduce risks and improve community response. Built for social impact and adaptive resilience.
+| 🎛️ **Leaf-Logic** | A data-driven Decision Tree Classifier that predicts whether a customer will purchase a product or service based on their demographic and behavioral attributes. Designed for explainability and real-world business insights. | Decision Tree, Scikit-learn, Pandas, Matplotlib
+| 💍 **GeoSense** | An AI-powered Disaster Prevention and Management System that uses geospatial intelligence and real-time predictive analytics to reduce risks and improve community response. Built for social impact and adaptive resilience. | Geospatial AI, Real-time Data Processing,Python
 
 ---
 
