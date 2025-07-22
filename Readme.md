@@ -103,5 +103,6 @@ I’m a Computer Science and Artificial Intelligence engineer with a deep intere
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Crafting+AI+with+Meaning+and+Mindfulness;From+Code+to+Conscience+%7C+System+to+Soul" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&height=80&lines=Crafting+AI+with+Meaning+and+Mindfulness;From+Code+to+Conscience+%7C+System+to+Soul" alt="Typing SVG" />
 </p>
+
