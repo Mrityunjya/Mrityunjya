@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mya-s">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mrityunjya-s">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/">GitHub</a>
+  <a href="https://github.com/Mrityunjya">GitHub</a>
 </p>
 
 ---
