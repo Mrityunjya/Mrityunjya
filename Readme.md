@@ -1,114 +1,242 @@
 <h1 align="center">Mrityunjya Sankar</h1>
-<h3 align="center">AI/ML Engineer • Ethical Technologist • Systems Thinker</h3>
 
 <p align="center">
-  <i>Crafting AI systems with intelligence, integrity, and impact.</i><br>
-  <i>Driven by curiosity. Designed with conscience.</i>
+  <strong>AI/ML Engineer · Applied AI Researcher · Product Engineer</strong>
+</p>
+
+<p align="center">
+  Building intelligent systems that connect <strong>machine learning, research, software, and real-world users.</strong>
+</p>
+
+<p align="center">
+  Machine Learning · Generative AI · Intelligent Systems · Decision Intelligence · User-Centric Engineering
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mya-s">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/">GitHub</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## About
 
-I’m a Computer Science and Artificial Intelligence engineer driven by the belief that AI should not only solve problems — it should understand people.
+I'm a **Computer Science engineer, founder, and AI/ML builder** interested in the space where **research becomes usable technology**.
 
-My work spans across multiple domains of AI — from Neuro-Symbolic Systems, Explainable Machine Learning, and Generative AI, to Decision Intelligence, Ethical Reasoning, and Emotionally-Aligned Agents.
+I work across machine learning, software engineering, and product development — particularly on problems where the data is imperfect, the environment is changing, and the solution needs to work beyond a notebook.
 
-Whether I’m building interpretable models, designing mindful agents, or fusing logic with deep learning — I aim to create systems that are not just intelligent, but responsible, empathetic, and human-aligned.
+My approach:
 
-I don’t just train models.
-I teach them to think with clarity, act with integrity, and evolve with purpose.
+```text
+Understand
+    ↓
+Research
+    ↓
+Experiment
+    ↓
+Build
+    ↓
+Deploy
+    ↓
+Learn
+    ↓
+Improve
+```
 
-> 🧩 Full-Stack Intelligence — Architecting Systems that Perceive, Understand, and Uplift.
----
-
-### Tech Stack (Elite + Practical)
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br>TensorFlow</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OpenCV_Logo_with_text_svg_version.svg" width="40"/><br>OpenCV</td>
-    <td align="center"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40"/><br>Streamlit</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><br>FastAPI</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>XGBoost</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/32955601/235305209-3e162b17-5581-4bdb-b4b5-e8dd531c80b9.png" width="40"/><br>W&B</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/78648727?s=200&v=4" width="40"/><br>Gradio</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/><br>Azure</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/><br>Windows</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="40"/><br>Plotly</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/119885747?s=200&v=4" width="40"/><br>LlamaIndex</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40"/><br>Markdown</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/><br>Tailwind CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>Flutter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML</td>
-  </tr>
-</table>
-
-> 🔬 Also skilled in: Weights & Biases, OpenCV, XGBoost, Streamlit, Plotly, Gradio, LlamaIndex
+> **I don't just build models. I build the systems around them.**
 
 ---
 
-### 🎯 Current Focus
+## Experience
 
-- Architecting neuro-symbolic and emotion-aware systems  
-- Real-time ethical inference in AI applications  
-- Building decision-making models grounded in fairness and interpretability  
-- Bridging human cognition with symbolic + sub-symbolic AI
+### Founder & Engineering Lead — Edoras Tech Solutions
 
----
+Built and led a technology venture alongside my undergraduate engineering degree, working across **AI/ML, software engineering, product development, and technical execution**.
 
-### 🌟 Featured Projects
+Working across the entire product lifecycle taught me to approach engineering from both sides:
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧬 **M.E.D.U.S.A.** | An advanced Neuro-Ethical AI system detecting moral dissonance using multi-factor inputs (symbolic reasoning + emotion + context). | Neuro-Symbolic AI, GPT-4, Custom Ethical Ontologies |
-| 🎛️ **Leaf-Logic** | A data-driven Decision Tree Classifier that predicts whether a customer will purchase a product or service based on their demographic and behavioral attributes. Designed for explainability and real-world business insights. | Decision Tree, Scikit-learn, Pandas, Matplotlib
-| 💍 **GeoSense** | An AI-powered Disaster Prevention and Management System that uses geospatial intelligence and real-time predictive analytics to reduce risks and improve community response. Built for social impact and adaptive resilience. | Geospatial AI, Real-time Data Processing,Python
+**What is technically possible?**
+**What is actually useful?**
+
+That perspective continues to shape how I build AI systems.
 
 ---
 
-### 🧭 Philosophy
+## Research
 
-> **"Excellence is not a goal — it's a lifestyle."**  
-> Technology must serve not just intelligence — but meaning, empathy, and justice.
+My interests lie in **Applied AI and Intelligent Systems**.
+
+### Areas of Interest
+
+`Adaptive Machine Learning` · `Graph Neural Networks`
+
+`Decision Intelligence` · `Generative AI & RAG`
+
+`Computer Vision` · `Geospatial Intelligence`
+
+`Neuro-Symbolic AI` · `Human-Centered AI`
+
+I'm particularly interested in the progression:
+
+> **Prediction → Reasoning → Decision → Adaptation**
+
+How can AI systems move beyond producing predictions to understanding context, handling uncertainty, and helping people make better decisions?
 
 ---
 
-### 🔬 Academic Values
+## Selected Work
 
-- 💡 Championing AI that is interpretable, inclusive, and human-centered  
-- 🎓 Inspired by interdisciplinary thinking: Computer Science × Neuroscience × Ethics  
-- 🧭 Working at the intersection of systems thinking, human behavior, and ML
+### GRANET
+
+**Adaptive Graph-Based Routing Intelligence**
+`Research · In Development`
+
+Exploring how graph learning, predictive modeling, and dynamic routing can work together to create **adaptive decision systems for changing environments**.
+
+**GNNs · Dynamic Graphs · Predictive Modeling · Routing**
+
+---
+
+### GeoSense
+
+**Geospatial Disaster Intelligence**
+`Prototype`
+
+AI-driven disaster intelligence combining **geospatial data, predictive analytics, real-time signals, and computer vision** for risk awareness and response.
+
+**Geospatial AI · Computer Vision · Real-Time Analytics**
 
 ---
 
-### 📫 Let’s Connect
+### M.E.D.U.S.A.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mrityunjya-s)
-- 🌐 Portfolio (Coming soon)
-- ✉️ Reach me via GitHub or email for research collabs, projects, and innovation
+**Neuro-Symbolic Ethical Intelligence**
+`Research · Experimental`
+
+Exploring the combination of **learned representations, contextual reasoning, symbolic systems, and ethical decision frameworks**.
+
+**Neuro-Symbolic AI · Generative AI · Knowledge Representation**
 
 ---
+
+### Clinical Intelligence
+
+**Unstructured Medical Data → Structured Intelligence**
+`Exploration`
+
+Exploring AI pipelines that transform fragmented clinical documents into **structured longitudinal information** for downstream reasoning and decision support.
+
+**LLMs · RAG · Information Extraction · Embeddings**
+
+---
+
+## Technical Stack
+
+### AI / ML
+
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn`
+
+`XGBoost` · `OpenCV` · `Deep Learning` · `Computer Vision`
+
+### Generative AI
+
+`LLMs` · `RAG` · `Embeddings` · `Vector Search`
+
+`LlamaIndex` · `AI Agents` · `Information Retrieval`
+
+### Software Engineering
+
+`FastAPI` · `Node.js` · `React` · `Next.js`
+
+`Flutter` · `Streamlit` · `Gradio` · `REST APIs`
+
+### Infrastructure & Data
+
+`Docker` · `Git` · `Linux` · `AWS` · `Azure`
+
+`PostgreSQL` · `MongoDB` · `MLflow` · `Weights & Biases`
+
+---
+
+## How I Build
+
+I care about what happens **after the model works**.
+
+```text
+Problem
+   ↓
+Data
+   ↓
+Model
+   ↓
+System
+   ↓
+Product
+   ↓
+User
+   ↓
+Feedback
+   ↺
+```
+
+That means thinking about more than accuracy:
+
+| Dimension            | Question                    |
+| -------------------- | --------------------------- |
+| **Correctness**      | Does it work?               |
+| **Robustness**       | Does it handle reality?     |
+| **Latency**          | Is it fast enough?          |
+| **Interpretability** | Can we understand it?       |
+| **Adaptability**     | Can it respond to change?   |
+| **Usability**        | Can people actually use it? |
+| **Impact**           | Did it solve the problem?   |
+
+> **A model is only one component. The product is the system.**
+
+---
+
+## Engineering Principles
+
+**User-first**
+Start with the problem, not the technology.
+
+**Research-driven**
+Question assumptions. Experiment. Measure.
+
+**Systems-minded**
+Think beyond the model.
+
+**Production-conscious**
+Build for reliability, usability, and scale.
+
+**Iterative**
+Build → observe → learn → improve.
+
+---
+
+## Currently Exploring
+
+`Adaptive Intelligence` · `Decision Systems`
+
+`Graph Learning` · `Generative AI`
+
+`Real-Time AI` · `Human-Centered Systems`
+
+---
+
+## Let's Build
+
+I'm interested in challenging problems across:
+
+**AI/ML Engineering · Applied AI · Intelligent Systems · AI Research · Product Engineering**
+
+Especially work where **deep technical thinking meets real-world impact.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FEEF&center=true&vCenter=true&width=700&height=80&lines=Crafting+AI+with+Meaning+and+Mindfulness;From+Code+to+Conscience+%7C+System+to+Soul" alt="Typing SVG" />
+  <strong>Research deeply. Engineer rigorously. Build for the user.</strong>
 </p>
 
+<p align="center">
+  <i>Turning intelligence into systems that matter.</i>
+</p>
