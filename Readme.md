@@ -50,7 +50,7 @@ Improve
 
 ## Experience
 
-### Founder & Engineering Lead — Edoras Tech Solutions
+### Founder & Engineering Lead — Edoras 
 
 Built and led a technology venture alongside my undergraduate engineering degree, working across **AI/ML, software engineering, product development, and technical execution**.
 
