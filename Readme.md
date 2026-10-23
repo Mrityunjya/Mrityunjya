@@ -1,242 +1,267 @@
-<h1 align="center">Mrityunjya Sankar</h1>
 
-<p align="center">
-  <strong>AI/ML Engineer · Applied AI Researcher · Product Engineer</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  Building intelligent systems that connect <strong>machine learning, research, software, and real-world users.</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B14,25:101C39,55:20245B,80:39206F,100:007F9E&text=MRITYUNJYA_S&fontColor=EAFBFF&fontSize=88&fontAlignY=38&desc=AI%20ENGINEERING%20%E2%80%A2%20INTELLIGENT%20SYSTEMS%20%E2%80%A2%20PRODUCTS&descSize=13&descAlignY=60&animation=twinkling" alt="MRITYUNJYA S cosmic banner"/>
 
-<p align="center">
-  Machine Learning · Generative AI · Intelligent Systems · Decision Intelligence · User-Centric Engineering
-</p>
+<a href="https://www.linkedin.com/in/mrityunjya-s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mrityunjyasankar04@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-D946EF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrityunjya-s">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Mrityunjya">GitHub</a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=52DDF5&center=true&vCenter=true&repeat=true&width=700&height=35&lines=AI+Engineer+%2F+Applied+AI+Researcher;Founder+Mindset.+Engineering+Discipline.;From+Research+to+Real-World+Systems." alt="Animated professional tagline"/>
 
-## About
+**AI Engineer · Applied AI Researcher · Product Engineer · Founder**
 
-I'm a **Computer Science engineer, founder, and AI/ML builder** interested in the space where **research becomes usable technology**.
+Building intelligent systems that connect **research, engineering, and real-world problems.**
 
-I work across machine learning, software engineering, and product development — particularly on problems where the data is imperfect, the environment is changing, and the solution needs to work beyond a notebook.
+`MACHINE LEARNING`　`GENERATIVE AI`　`SYSTEMS THINKING`　`PRODUCT ENGINEERING`
 
-My approach:
-
-```text
-Understand
-    ↓
-Research
-    ↓
-Experiment
-    ↓
-Build
-    ↓
-Deploy
-    ↓
-Learn
-    ↓
-Improve
-```
-
-> **I don't just build models. I build the systems around them.**
+</div>
 
 ---
 
-## Experience
+## ▸ `01` — SYSTEM PROFILE
 
-### Founder & Engineering Lead — Edoras 
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Built and led a technology venture alongside my undergraduate engineering degree, working across **AI/ML, software engineering, product development, and technical execution**.
+Computer Science engineer focused on applied AI, intelligent systems, and software engineering.
 
-Working across the entire product lifecycle taught me to approach engineering from both sides:
+I enjoy turning complex or ambiguous problems into practical solutions — from investigating the right approach to building, testing, and improving the system around it.
 
-**What is technically possible?**
-**What is actually useful?**
+My perspective combines **an engineer's attention to implementation with a founder's instinct for ownership, trade-offs, and outcomes.**
 
-That perspective continues to shape how I build AI systems.
+**Operating principles**
+- Research before assumptions.
+- Engineering beyond the prototype.
+- Products built around real problems.
+- Continuous improvement through feedback.
+
+</td>
+<td width="35%" valign="top">
+
+### CURRENT FOCUS
+
+<p>
+<img src="https://img.shields.io/badge/Applied%20AI-0D9488?style=flat-square&labelColor=111827" alt="Applied AI"/>
+<img src="https://img.shields.io/badge/Intelligent%20Systems-818CF8?style=flat-square&labelColor=111827" alt="Intelligent Systems"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-C084FC?style=flat-square&labelColor=111827" alt="Product Engineering"/>
+<img src="https://img.shields.io/badge/Decision%20Intelligence-34D399?style=flat-square&labelColor=111827" alt="Decision Intelligence"/>
+<img src="https://img.shields.io/badge/Production%20AI-60A5FA?style=flat-square&labelColor=111827" alt="Production AI"/>
+<img src="https://img.shields.io/badge/AI%20Systems%20Architecture-5EEAD4?style=flat-square&labelColor=111827" alt="AI Systems Architecture"/>
+<img src="https://img.shields.io/badge/Generative%20AI-A78BFA?style=flat-square&labelColor=111827" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Retrieval%20%26%20Knowledge%20Systems-FBBF24?style=flat-square&labelColor=111827" alt="Retrieval and Knowledge Systems"/>
+<img src="https://img.shields.io/badge/Software%20Reliability-FDA4AF?style=flat-square&labelColor=111827" alt="Software Reliability"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-93C5FD?style=flat-square&labelColor=111827" alt="Data Engineering"/>
+<img src="https://img.shields.io/badge/Responsible%20AI-6EE7B7?style=flat-square&labelColor=111827" alt="Responsible AI"/>
+<img src="https://img.shields.io/badge/Research%20to%20Production-D8B4FE?style=flat-square&labelColor=111827" alt="Research to Production"/>
+<img src="https://img.shields.io/badge/Intelligent%20Healthcare-F9A8D4?style=flat-square&labelColor=111827" alt="Intelligent Healthcare"/>
+<img src="https://img.shields.io/badge/Product--Centric%20Engineering-FDBA74?style=flat-square&labelColor=111827" alt="Product-Centric Engineering"/>
+<img src="https://img.shields.io/badge/Software%20Development-7DD3FC?style=flat-square&labelColor=111827" alt="Software Development"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Research
+## ▸ `02` — THE ENGINEERING CHRONICLE
 
-My interests lie in **Applied AI and Intelligent Systems**.
+### Founder & Lead Developer
 
-### Areas of Interest
+*Technology venture · AI/ML · Software engineering · Product development*
 
-`Adaptive Machine Learning` · `Graph Neural Networks`
+Built and led a technology venture alongside my undergraduate engineering degree.
 
-`Decision Intelligence` · `Generative AI & RAG`
+The experience shaped how I approach problems beyond writing code:
 
-`Computer Vision` · `Geospatial Intelligence`
+| Founder perspective | Engineering perspective |
+|---|---|
+| Identify meaningful problems | Investigate technical feasibility |
+| Navigate ambiguity | Make deliberate architecture choices |
+| Understand users and constraints | Validate correctness and reliability |
+| Own outcomes | Test, measure, and improve |
+| Think across the product lifecycle | Build maintainable systems |
 
-`Neuro-Symbolic AI` · `Human-Centered AI`
+I value end-to-end ownership: understanding why something needs to exist, deciding how to build it, and evaluating whether it actually solves the intended problem.
 
-I'm particularly interested in the progression:
-
-> **Prediction → Reasoning → Decision → Adaptation**
-
-How can AI systems move beyond producing predictions to understanding context, handling uncertainty, and helping people make better decisions?
+**I want to build technology that works in practice, not just in a demonstration.**
 
 ---
 
-## Selected Work
+## ▸ `03` — PROJECT CONSTELLATION
 
-### GRANET
+<sub>Four explorations · Four problem spaces · One systems-oriented approach</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ GRANET
+
+<img src="https://img.shields.io/badge/RESEARCH-IN%20DEVELOPMENT-7857FF?style=flat-square" alt="Research in development"/>
 
 **Adaptive Graph-Based Routing Intelligence**
-`Research · In Development`
 
-Exploring how graph learning, predictive modeling, and dynamic routing can work together to create **adaptive decision systems for changing environments**.
+Exploring graph learning, predictive modeling, and dynamic routing for intelligent decisions in changing environments.
 
-**GNNs · Dynamic Graphs · Predictive Modeling · Routing**
+`Graph Neural Networks`
 
----
+`Dynamic Graphs`
 
-### GeoSense
+`Predictive Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ GeoSense
+
+<img src="https://img.shields.io/badge/STATUS-PROTOTYPE-00B8D9?style=flat-square" alt="Prototype"/>
 
 **Geospatial Disaster Intelligence**
-`Prototype`
 
-AI-driven disaster intelligence combining **geospatial data, predictive analytics, real-time signals, and computer vision** for risk awareness and response.
+Exploring geospatial data, predictive analytics, and computer vision for disaster-risk awareness and response.
 
-**Geospatial AI · Computer Vision · Real-Time Analytics**
+`Geospatial AI`
 
----
+`Computer Vision`
 
-### M.E.D.U.S.A.
+`Spatial Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ M.E.D.U.S.A.
+
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-D946EF?style=flat-square" alt="Experimental research"/>
 
 **Neuro-Symbolic Ethical Intelligence**
-`Research · Experimental`
 
-Exploring the combination of **learned representations, contextual reasoning, symbolic systems, and ethical decision frameworks**.
+Investigating how learned representations, contextual reasoning, and symbolic systems can contribute to structured decision frameworks.
 
-**Neuro-Symbolic AI · Generative AI · Knowledge Representation**
+`Neuro-Symbolic AI`
 
----
+`Knowledge Representation`
 
-### Clinical Intelligence
+`Generative AI`
 
-**Unstructured Medical Data → Structured Intelligence**
-`Exploration`
+</td>
+<td width="50%" valign="top">
 
-Exploring AI pipelines that transform fragmented clinical documents into **structured longitudinal information** for downstream reasoning and decision support.
+### ◈ Clinical Intelligence
 
-**LLMs · RAG · Information Extraction · Embeddings**
+<img src="https://img.shields.io/badge/STATUS-EXPLORATION-19C99A?style=flat-square" alt="Exploration"/>
 
----
+**Unstructured Medical Data → Structured Information**
 
-## Technical Stack
+Exploring pipelines that turn fragmented clinical documents into structured longitudinal information for downstream analysis and decision support.
 
-### AI / ML
+`LLMs` `RAG`
 
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn`
+`Information Extraction`
 
-`XGBoost` · `OpenCV` · `Deep Learning` · `Computer Vision`
+</td>
+</tr>
+</table>
 
-### Generative AI
-
-`LLMs` · `RAG` · `Embeddings` · `Vector Search`
-
-`LlamaIndex` · `AI Agents` · `Information Retrieval`
-
-### Software Engineering
-
-`FastAPI` · `Node.js` · `React` · `Next.js`
-
-`Flutter` · `Streamlit` · `Gradio` · `REST APIs`
-
-### Infrastructure & Data
-
-`Docker` · `Git` · `Linux` · `AWS` · `Azure`
-
-`PostgreSQL` · `MongoDB` · `MLflow` · `Weights & Biases`
+<sub>Project cards intentionally have no repository links. Status labels distinguish development stages; they do not imply production validation.</sub>
 
 ---
 
-## How I Build
+## ▸ `04` — TECH STACK
 
-I care about what happens **after the model works**.
+<div align="center">
 
-```text
-Problem
-   ↓
-Data
-   ↓
-Model
-   ↓
-System
-   ↓
-Product
-   ↓
-User
-   ↓
-Feedback
-   ↺
-```
+### 🧠 AI / ML
 
-That means thinking about more than accuracy:
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning technology icons"/>
 
-| Dimension            | Question                    |
-| -------------------- | --------------------------- |
-| **Correctness**      | Does it work?               |
-| **Robustness**       | Does it handle reality?     |
-| **Latency**          | Is it fast enough?          |
-| **Interpretability** | Can we understand it?       |
-| **Adaptability**     | Can it respond to change?   |
-| **Usability**        | Can people actually use it? |
-| **Impact**           | Did it solve the problem?   |
+### ✨ Generative AI & Retrieval
 
-> **A model is only one component. The product is the system.**
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `LlamaIndex` · `AI Agents`
+
+### ⚙️ Software Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,flutter,typescript,tailwind&theme=dark" alt="Software engineering technology icons"/>
+
+### ☁️ Infrastructure & Data
+
+<img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,aws,azure,postgres,mongodb&theme=dark" alt="Infrastructure and database technology icons"/>
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,github,jupyter,figma,postman,terraform&theme=dark" alt="Development tools and workflow icons"/>
+
+</div>
 
 ---
 
-## Engineering Principles
+## ▸ `05` — HOW I BUILD
 
-**User-first**
-Start with the problem, not the technology.
+<div align="center">
 
-**Research-driven**
-Question assumptions. Experiment. Measure.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0B1020,50:18264B,100:301858&text=PROBLEM%20%E2%86%92%20DATA%20%E2%86%92%20MODEL%20%E2%86%92%20SYSTEM%20%E2%86%92%20PRODUCT&fontColor=75E6FF&fontSize=17&fontAlignY=50" alt="Engineering workflow"/>
 
-**Systems-minded**
-Think beyond the model.
+</div>
 
-**Production-conscious**
-Build for reliability, usability, and scale.
+I care about what happens after the first successful experiment.
 
-**Iterative**
-Build → observe → learn → improve.
+| Dimension | Engineering question |
+|---|---|
+| Correctness | Does it produce the intended result? |
+| Robustness | Can it handle imperfect inputs? |
+| Performance | Does it meet its practical constraints? |
+| Interpretability | Can we understand its behavior? |
+| Maintainability | Can it be tested and improved? |
+| Usability | Does it help the intended user? |
+| Impact | Does it solve the problem that matters? |
+
+### The principles behind the code
+
+- **User-first:** solve the right problem.
+- **Research-driven:** question assumptions and measure.
+- **Systems-minded:** understand the whole architecture.
+- **Reliability-conscious:** account for failure and edge cases.
+- **Iterative:** build, observe, learn, improve.
+
+<div align="center">
+
+### Prediction → Reasoning → Decision → Adaptation
+
+*The model is one component. The product is the system.*
+
+</div>
 
 ---
 
-## Currently Exploring
+## ▸ `06` — COLLABORATION 
 
-`Adaptive Intelligence` · `Decision Systems`
+I'm interested in opportunities across:
 
-`Graph Learning` · `Generative AI`
+- AI/ML engineering and applied AI.
+- Intelligent systems and decision intelligence.
+- AI-enabled software and product engineering.
+- Research-driven engineering and early-stage product development.
 
-`Real-Time AI` · `Human-Centered Systems`
+I value environments where technical depth, thoughtful execution, and practical impact matter.
+
+Whether contributing to an engineering team or working through an early-stage product challenge, I bring a combination of **technical curiosity, engineering discipline, and ownership**.
 
 ---
 
-## Let's Build
+<div align="center">
 
-I'm interested in challenging problems across:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:080B14,35:14234A,70:38205F,100:075D77&text=LET'S%20BUILD%20SOMETHING%20MEANINGFUL&fontColor=EAFBFF&fontSize=20&fontAlignY=42&desc=Research%20deeply.%20Engineer%20rigorously.%20Build%20for%20the%20user.&descSize=12&descAlignY=65" alt="Let's build something meaningful"/>
 
-**AI/ML Engineering · Applied AI · Intelligent Systems · AI Research · Product Engineering**
+<a href="https://www.linkedin.com/in/mrityunjya-s/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mrityunjyasankar04@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-D946EF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-Especially work where **deep technical thinking meets real-world impact.**
+<sub>Mrityunjya S · Intelligence, engineered.</sub>
 
-<p align="center">
-  <strong>Research deeply. Engineer rigorously. Build for the user.</strong>
-</p>
-
-<p align="center">
-  <i>Turning intelligence into systems that matter.</i>
-</p>
+</div>
